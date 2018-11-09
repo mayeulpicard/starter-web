@@ -19,3 +19,4 @@ You can contribute by ...
 ## Copyright
 ksdjfksjdfkjdf
 djfkdjfk
+All rights reserved for the stash example
